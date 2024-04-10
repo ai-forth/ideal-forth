@@ -1,6 +1,6 @@
 ## ideal-forth
 
-A project to investigate the ideal algorithm in the Forth language.
+A project to investigate the ideal algorithm in the Forth language. The idea is to follow closely the paradigm established by [Leo Brodie](https://www.forth.com/starting-forth/0-starting-forth/) in the 1981 book _Starting Forth_.
 
 ![gnu](/images/gnu-forth.png)
 
