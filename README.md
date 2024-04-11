@@ -1,12 +1,12 @@
 ## ideal-forth
 
-A project to investigate the ideal algorithm in the Forth language. The idea is to follow closely the paradigm established by [Leo Brodie](https://www.forth.com/starting-forth/0-starting-forth/) in the 1981 book _Starting Forth_.
+A codebase to reflect the paradigm established by [Leo Brodie](https://www.forth.com/starting-forth/0-starting-forth/) in the 1981 book _Starting Forth_.
 
 ![gnu](/images/gnu-forth.png)
 
-### Background
+### Why?
 
-When completing both the ideal algorithm in C# _and_ taking the time to understand M6809-multicomputer, it seems wise to have a look at this language and see if it can help solve bottlenecks with aiventure-david, now _joi_.
+When completing both the ideal algorithm in C# _and_ taking the time to understand M6809-multicomputer, it seems wise to have a look at this language and see if it can help solve bottlenecks with aiventure-david, now _joi_. Can't say it here, but see its evolution called [five](https://github.com/cartheur/ideal-five).
 
 ### This distribution
 
