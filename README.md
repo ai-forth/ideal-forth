@@ -22,3 +22,7 @@ The goal of the forth is to advance an evolving model for ANSI Forth. This code 
     - Open source.
     - Available on many machines/easy to port.
 * There's an object oriented [package](/releases/oof.zip), written in almost plain ANS Forth, now a part of this distribution.
+
+### Why?
+
+Forth's syntax and mechanations are the underpinning of [Bitcoin](https://www.youtube.com/watch?v=i7Vz6r6p1o4).
