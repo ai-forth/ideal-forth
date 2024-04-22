@@ -2,7 +2,7 @@
 
 A codebase to reflect the paradigm established by [Leo Brodie](https://www.forth.com/starting-forth/0-starting-forth/) in the 1981 book _Starting Forth_.
 
-![gnu](/images/gnu-forth.png)
+![gnu](/images/gnu-forth.png) ![swap](/images/swap-dragon.png)
 
 ### Why?
 
