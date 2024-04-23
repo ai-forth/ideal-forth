@@ -27,4 +27,4 @@ The goal here is to establish a new paradigm for forth by echoing several goals:
 ### Errata
 
 * gforth Savannah [repo](https://git.savannah.gnu.org/cgit/gforth.git)
-* GreenArrays [site](https://www.greenarraychips.com). Unreachable as of April 2024.
+* GreenArrays [site](https://www.greenarraychips.com). Unreachable as of April 2024. 
