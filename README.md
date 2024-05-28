@@ -1,6 +1,6 @@
 ## ideal-forth
 
-In a nutshell: An awesome stack based programming language, which is able to extend itself during runtime.
+An awesome way to get things done at the level of the machine. Here will be applying self-extension during runtime. Sure a _imperatively dangerous_ task, but who cares what people have said about this topic over the years. Look at the state of things!
 
 A codebase to reflect the paradigm established by [Leo Brodie](https://www.forth.com/starting-forth/0-starting-forth/) in the 1981 book _Starting Forth_.
 
