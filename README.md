@@ -6,11 +6,6 @@ A codebase to reflect the paradigm established by [Leo Brodie](https://www.forth
 
 ![gnu](/images/gnu-forth.png) ![swap](/images/swap-dragon.png)
 
-### Why?
-
-* When completing both the ideal algorithm in C# _and_ taking the time to understand M6809-multicomputer, it seems wise to have a look at this language and see if it can help solve bottlenecks with aiventure-david, now _joi_. Can't say it here, but see its evolution called [five](https://github.com/cartheur/ideal-five).
-* Forth's syntax and mechanations are the underpinning of [Bitcoin](https://www.youtube.com/watch?v=i7Vz6r6p1o4).
-
 ### This distribution
 
 The goal here is to establish a new paradigm for forth by echoing several goals:
