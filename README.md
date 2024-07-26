@@ -24,3 +24,31 @@ The goal here is to establish a new paradigm for forth by echoing several goals:
 * gforth Savannah [repo](https://git.savannah.gnu.org/cgit/gforth.git)
 * GreenArrays [site](https://www.greenarraychips.com)
 * Todo: Connect via WSL in windoze development environment
+
+-----
+
+## Getting interesting shit done
+
+Use Wine in Debian Bookworm to run the sF development environment with access to the board. COMports in Linux are:
+
+`dmesg | grep tty` where it will be seen:
+
+```
+
+[    0.000000] printk: console [tty0] enabled
+[    1.225657] 0000:00:16.3: ttyS0 at I/O 0x4090 (irq = 17, base_baud = 115200) is a 16550A
+[    5.077299] systemd[1]: Created slice system-getty.slice - Slice /system/getty.
+[ 1129.168748] usb 4-1.2.3.2: FTDI USB Serial Device converter now attached to ttyUSB0
+[ 1129.169615] usb 4-1.2.3.3: FTDI USB Serial Device converter now attached to ttyUSB1
+
+```
+
+When running the self-test routines in arrayForth, run this code from [here](https://wiki.winehq.org/index.php?title=Wine_User%27s_Guide&oldid=2519#Serial_and_Parallel_Ports):
+
+`<COM> SELFTEST`
+
+Added the keys to the registry, `wine regedit` maybe not right. So can investigate, but serial devices attached but not correctly mapped to Windows:
+
+* `// ./COM16 PORT can't open it!`
+
+Restart wine - `wineboot -r`
