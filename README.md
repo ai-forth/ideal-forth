@@ -52,3 +52,8 @@ Added the keys to the registry, `wine regedit` maybe not right. So can investiga
 * `// ./COM16 PORT can't open it!`
 
 Restart wine - `wineboot -r`
+
+### See the samples
+
+Brought over here from a MacOS 9.2.2 program, in a deep archive. A great place to get started with polyForth?
+
