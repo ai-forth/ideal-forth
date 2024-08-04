@@ -1,4 +1,4 @@
-\ ****** ChaseNet  in  FORTH  by  MERVYN@xs4all.nl *******
+\ ****** ChaseNet  in  FORTH *******
 --> Extended.f
 variable A 300 allot  variable B 300 allot  
 variable X 10 allot  variable Y 10 allot  
@@ -10,7 +10,7 @@ variable SP variable T variable GEN  create "TITLE" ," ChaseNet"
 	250 200 Do 10 A I + !  10 B I + !	2 +Loop 
 	200 0 do 0 A I + !  2 +Loop 
 	BLACK bcolor WHITE fcolor 500 300 wsize "TITLE" wtitle page
-	." ChaseNet  by  Mervyn@xs4all.nl (programmed in Forth)" CR CR
+	." ChaseNet " CR CR
 	." ChaseNet demonstrates how a neural net can be used to solve" CR
 	." a problem. This Neural Net is trained by means of 'hill climbing'."  CR
 	." The factors are randomly changed and stored when they break" CR
