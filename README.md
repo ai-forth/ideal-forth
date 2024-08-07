@@ -57,4 +57,4 @@ Restart wine - `wineboot -r`
 
 Brought over here from a MacOS 9.2.2 program, in a deep archive. A great place to get started with polyForth?
 
-It is so.
+It is so. Certianly.
