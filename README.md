@@ -25,6 +25,12 @@ The goal here is to establish a new paradigm for forth by echoing several goals:
 * GreenArrays [site](https://www.greenarraychips.com)
 * Todo: Connect via WSL in windoze development environment
 
+### What is highly-interesting
+
+The encompassing of forth with _ideal_. What are some interesting features-of-interest?
+
+* [Ability](/2-probe/README.md) to walk-through a digital board and diagnose the problem, indicating the steps to repair
+
 -----
 
 ## Getting interesting shit done
