@@ -6,4 +6,6 @@ The theme, in deference to June 2004, is _blue_.
 
 ### What is highly-interesting
 
-The encompassing of forth with _ideal_.
+The encompassing of forth with _ideal_. What are some interesting features-of-interest?
+
+* Ability to walk-through a digital board and diagnose the problem, indicating the steps to repair
