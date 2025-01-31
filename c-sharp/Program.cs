@@ -17,9 +17,6 @@ Console.WriteLine("The sum of these vectors.: " + (sum01.V + sum02.V));
 
 var diff01 = vec01 - vec02;
 var diff02 = diff01 - vec03;
-Console.WriteLine("1 - Vector(5, 4, 3)");
-Console.WriteLine("2 - Vector(8, 9, 7)");
-Console.WriteLine("3 - Vector(14, 29, 37)");
 // The factor of negative cast in terms of projective geometry.
 Console.WriteLine("The diff of these vectors.: " + (diff01.V - diff02.V));
 
