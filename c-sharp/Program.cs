@@ -6,12 +6,13 @@ Console.WriteLine("Computing operations with a vector struct.");
 // Computations to perform.
 var vec01 = new Vector(5, 4, 3);
 var vec02 = new Vector(8, 9, 7);
-var vec03 = new Vector(14, 29, 37);
-var sum = vec01 + vec02 + vec03;
+var vec03 = new Vector(14, -29, 37);
+var sum01 = vec01 + vec02;
+var sum02 = sum01 + vec03;
 Console.WriteLine("1 - Vector(5, 4, 3)");
 Console.WriteLine("2 - Vector(8, 9, 7)");
 Console.WriteLine("3 - Vector(14, 29, 37)");
-Console.WriteLine("The sum of these vectors.: " + sum.V);
+Console.WriteLine("The sum of these vectors.: " + (sum01.V + sum02.V));
 
 var diff = vec01 - vec02 - vec03;
 Console.WriteLine("1 - Vector(5, 4, 3)");
