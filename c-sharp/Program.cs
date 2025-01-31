@@ -4,28 +4,46 @@ Console.WriteLine("An example of the simplest task-runner fast-compute in c-shar
 Console.WriteLine("Computing operations with a vector struct.");
 
 // Computations to perform.
-var sum = Vector.x + Vector.y + Vector.z;
+var vec01 = new Vector(5, 4, 3);
+var vec02 = new Vector(8, 9, 7);
+var sum = vec01 + vec02;
+Console.WriteLine("1 - Vector(5, 4, 3)");
+Console.WriteLine("2 - Vector(8, 9, 7)");
 
 // Outputs to print.
-Console.WriteLine("Print the addition of two vectors.: " + sum);
+Console.WriteLine("The sum of these vectors.: " + sum.V);
+Console.ReadLine();
 
 // Structures and operations for this program.
 struct Vector
 {
-    public static int x = 5;
-    public static int y = 4;
-    public static int z = 3;
+    public int X { get; set; }
+    public int Y { get; set; }
+    public int Z { get; set; }
+    public int V { get; }
+
+    public Vector(int x, int y, int z)
+    {
+        X = x;
+        Y = y;
+        Z = z;
+    }
+
+    public Vector(int v) : this()
+    {
+        V = v;
+    }
 
     /// <summary>
-        /// Addition of two Vectors
-        /// </summary>
-        /// <param name="v1">Vector to be added to </param>
-        /// <param name="v2">Vector to be added</param>
-        /// <returns>Vector representing the sum of two Vectors</returns>
-        public static Vector operator +(Vector v1, Vector v2)
-        {
-            return v1.x + v2.x + v1.y + v2.y + v1.z + v2.z;
-        }
+    /// Addition of two Vectors
+    /// </summary>
+    /// <param name="v1">Vector to be added to </param>
+    /// <param name="v2">Vector to be added</param>
+    /// <returns>Vector representing the sum of two Vectors</returns>
+    public static Vector operator +(Vector v1, Vector v2)
+    {
+        return new Vector(v1.X + v2.X + v1.Y + v2.Y + v1.Z + v2.Z);
+    }
 }
 
 // End program
