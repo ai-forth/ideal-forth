@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+c-sharp/obj/c-sharp.csproj.nuget.dgspec.json
+c-sharp/obj/c-sharp.csproj.nuget.g.props
+c-sharp/obj/c-sharp.csproj.nuget.g.targets
+c-sharp/obj/project.nuget.cache
+c-sharp/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+c-sharp/obj/Debug/net9.0/c-sharp.AssemblyInfo.cs
+c-sharp/obj/Debug/net9.0/c-sharp.AssemblyInfoInputs.cache
+c-sharp/obj/Debug/net9.0/c-sharp.assets.cache
+c-sharp/obj/Debug/net9.0/c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+c-sharp/obj/Debug/net9.0/c-sharp.GlobalUsings.g.cs
