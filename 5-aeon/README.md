@@ -1,4 +1,4 @@
-## 1 - aeon agi
+## 5 - aeon agi
 
 Here is the place where this work will begin anew with aeon and _five_. Started in 1997 deeply thought-out in 2004, scoped in the years 2016-2023, and now ready for a quasi-final architecture that we can run and see how she responds.
 
