@@ -20,8 +20,7 @@ var diff02 = diff01 - vec03;
 // The factor of negative cast in terms of projective geometry.
 Console.WriteLine("The diff of these vectors: " + (diff01.V - diff02.V));
 
-
-// Structures and operations for this program.
+// Structures and operations.
 struct Vector
 {
     public int X { get; set; }
@@ -41,12 +40,6 @@ struct Vector
         V = v;
     }
 
-    /// <summary>
-    /// Addition of two Vectors
-    /// </summary>
-    /// <param name="v1">Vector to be added to </param>
-    /// <param name="v2">Vector to be added</param>
-    /// <returns>Vector representing the sum of two Vectors</returns>
     public static Vector operator +(Vector v1, Vector v2)
     {
         return new Vector(v1.X + v2.X + v1.Y + v2.Y + v1.Z + v2.Z);
