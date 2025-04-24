@@ -6,4 +6,4 @@ The theme, in deference to June 2004, is _blue_.
 
 ### Workout
 
-Words.
+Beginning with Eliza in forth and working toward aeon. This is the path.
