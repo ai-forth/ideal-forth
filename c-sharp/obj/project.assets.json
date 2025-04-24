@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/cartheur/ame/aiventure/aiventure-github/forth/ideal-forth/c-sharp/c-sharp.csproj",
+      "projectUniqueName": "/home/cartheur/ame/aiventure/aiventure-github/ai-forth/ideal-forth/c-sharp/c-sharp.csproj",
       "projectName": "c-sharp",
-      "projectPath": "/home/cartheur/ame/aiventure/aiventure-github/forth/ideal-forth/c-sharp/c-sharp.csproj",
+      "projectPath": "/home/cartheur/ame/aiventure/aiventure-github/ai-forth/ideal-forth/c-sharp/c-sharp.csproj",
       "packagesPath": "/home/cartheur/.nuget/packages/",
-      "outputPath": "/home/cartheur/ame/aiventure/aiventure-github/forth/ideal-forth/c-sharp/obj/",
+      "outputPath": "/home/cartheur/ame/aiventure/aiventure-github/ai-forth/ideal-forth/c-sharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/cartheur/.nuget/NuGet/NuGet.Config"
