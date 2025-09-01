@@ -3,3 +3,6 @@ Ideal forth operational runtime
 
 28.08.2025
     1142: Here is where the future begins. As of this morning, the Volatco board is with the engineering-house, which will form the first footing into the foray of all things nice and beautiful.
+01.09.2025
+    1425: Starting the September run.
+    
