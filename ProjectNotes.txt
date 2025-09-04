@@ -1,17 +1,5 @@
-August 2025
+September 2025
 Ideal forth operational runtime
 
-28.08.2025
-    1142: Here is where the future begins. As of this morning, the Volatco board is with the engineering-house, which will form the first footing into the foray of all things nice and beautiful.
-01.09.2025
-    1425: Starting the September run.
-    2017: Pulled-away and distracted. Everyday the story.
-02.09.2025
-    1627: Pulled-away again, this time hard. And have a work-stoppage on-hand; but did see a beautiful rainbow including the end this morning.
-    2233: Got my GLOW on, and bothy needs to do something but my ex needs to be fed to work across the divide.
-03.09.2025
-    917: thinking on manifesto.
-    1445: Voltaco is in production!
 04.09.2025
-    951: Etsy, what can we fill a shop with, chinky?
-    
+    951: Beginning the operands for a basic dot-like system, which seems the best place to start.
