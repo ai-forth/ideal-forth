@@ -12,4 +12,6 @@ Ideal forth operational runtime
 03.09.2025
     917: thinking on manifesto.
     1445: Voltaco is in production!
+04.09.2025
+    951: Etsy, what can we fill a shop with, chinky?
     
