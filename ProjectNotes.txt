@@ -3,4 +3,5 @@ Ideal forth operational runtime
 
 04.09.2025
     951: Beginning the operands for a basic dot-like system, which seems the best place to start.
-    958: See aiforth/forth-dot.
+    958: See emotionaltoys/animals-pavie and aiforth/pavie-forth for where to begin coding and designing the manufacturing elements.
+    
