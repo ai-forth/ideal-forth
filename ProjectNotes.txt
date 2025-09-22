@@ -7,4 +7,5 @@ Ideal forth operational runtime
 22.09.2025
     1243: The code from Greg doesn't begin to work on gforth.
     1317: ArrayForth and other IDEs not working on the ideal computer.
+    1603: Dropping all old attempts at systems and connectivity. Only new with the machines I choose.
     
