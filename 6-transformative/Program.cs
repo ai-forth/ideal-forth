@@ -1,5 +1,7 @@
 ﻿// Begin program
 
+using System;
+
 Console.WriteLine("An example of the simplest task-runner fast-compute in c-sharp.");
 Console.WriteLine("Computing operations with a vector struct.");
 
@@ -46,7 +48,7 @@ struct Vector
     }
     public static Vector operator -(Vector v1, Vector v2)
     {
-        return new Vector((v1.X - v2.X) - (v1.Y + v2.Y) - (v1.Z + v2.Z));
+        return new Vector(v1.X - v2.X - (v1.Y + v2.Y) - (v1.Z + v2.Z));
     }
 }
 struct Complex
@@ -66,7 +68,7 @@ struct Complex
     }
     public static Complex operator -(Complex c1, Complex c2)
     {
-        return new Complex((c1.Real - c2.Real), (c1.Imaginary + c2.Imaginary));
+        return new Complex(c1.Real - c2.Real, c1.Imaginary + c2.Imaginary);
     }
 }
 
