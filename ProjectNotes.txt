@@ -10,4 +10,5 @@ Ideal forth operational runtime
     1603: Dropping all old attempts at systems and connectivity. Only new with the machines I choose.
 26.01.2026
     1056: Was told there is a laugh to be had in here. Let's see if I can find it.
+    1226: While this and v-stratch are relevant, animals-fox is where I am developing the new idea.
     
