@@ -8,4 +8,6 @@ Ideal forth operational runtime
     1243: The code from Greg doesn't begin to work on gforth.
     1317: ArrayForth and other IDEs not working on the ideal computer.
     1603: Dropping all old attempts at systems and connectivity. Only new with the machines I choose.
+26.01.2026
+    1056: Was told there is a laugh to be had in here. Let's see if I can find it.
     
