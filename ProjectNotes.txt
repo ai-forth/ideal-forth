@@ -11,4 +11,6 @@ Ideal forth operational runtime
 26.01.2026
     1056: Was told there is a laugh to be had in here. Let's see if I can find it.
     1226: While this and v-stratch are relevant, animals-fox is where I am developing the new idea.
+27.05.2026
+    839: Idea has been developed and implemented in Volatco 'a'. Let's see what adventures can be created.
     
