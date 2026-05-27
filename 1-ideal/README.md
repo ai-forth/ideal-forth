@@ -2,6 +2,6 @@
 
 Here is the place where ideal will come from C# into Forth. The meat of the initiative.
 
-### Workout
+### The Plan
 
-Words.
+Implement Greg's code blocks on a Volatco and figure a use-case.
